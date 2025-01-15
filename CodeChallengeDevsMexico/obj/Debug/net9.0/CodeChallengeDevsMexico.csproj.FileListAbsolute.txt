@@ -1,0 +1,14 @@
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\bin\Debug\net9.0\CodeChallengeDevsMexico.exe
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\bin\Debug\net9.0\CodeChallengeDevsMexico.deps.json
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\bin\Debug\net9.0\CodeChallengeDevsMexico.runtimeconfig.json
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\bin\Debug\net9.0\CodeChallengeDevsMexico.dll
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\bin\Debug\net9.0\CodeChallengeDevsMexico.pdb
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.AssemblyInfoInputs.cache
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.AssemblyInfo.cs
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.csproj.CoreCompileInputs.cache
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.dll
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\refint\CodeChallengeDevsMexico.dll
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.pdb
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\CodeChallengeDevsMexico.genruntimeconfig.cache
+C:\Users\sarellano\source\repos\CodeChallengeDevsMexico\CodeChallengeDevsMexico\obj\Debug\net9.0\ref\CodeChallengeDevsMexico.dll
